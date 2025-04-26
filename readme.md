@@ -1,4 +1,4 @@
-# Tavus Conversation Recording Demo
+# Tavus Conversation Start/Stop Recording Demo
 
 A demonstration application showcasing how to integrate the Daily.co JavaScript SDK for video calls with Tavus Conversation recording functionality.
 
@@ -69,7 +69,7 @@ For cloud recording to work, users must configure:
     "recording_s3_bucket_name": "your-bucket-name",
     "recording_s3_bucket_region": "your-bucket-region",
     "aws_assume_role_arn": "your-role-arn"
-  }
+  }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
   ```
 
 ## Usage Flow
@@ -77,7 +77,7 @@ For cloud recording to work, users must configure:
 1. Configure S3 bucket following Daily.co documentation
 2. Create a Tavus Conversation with recording enabled
 3. Use this demo to join the conversation
-4. Control recording with start/stop buttons
+4. ccc 
 5. Recordings are stored in your configured S3 bucket
 
 ## Technical Requirements
